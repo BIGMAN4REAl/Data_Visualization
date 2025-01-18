@@ -10,7 +10,7 @@ The "Bike Theft Report" provides a comprehensive analysis of bike theft statisti
 The "Justice in US Teaching" report presents a comprehensive analysis of teaching salaries in the United States, utilizing a collection of effective visualizations created with Tableau. These visualizations present meaningful insights, helping to understand the disparities and trends in teaching compensation across different regions.
 
 Report:
-https://public.tableau.com/app/profile/yi.kuang4908/viz/all_17201891497000/Dashboard72#1
+https://public.tableau.com/app/profile/yi.kuang4908/viz/all_17201891497000/Dashboard72#1 \par
 Final Presentation based on the Report:
 https://youtu.be/nY_SZH4ndJU
 
